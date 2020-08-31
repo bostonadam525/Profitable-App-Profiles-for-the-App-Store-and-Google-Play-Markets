@@ -1,4 +1,4 @@
-# Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+# Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets by Adam M. Lang
 
 The goal of this project is to pretened we are working for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
 
